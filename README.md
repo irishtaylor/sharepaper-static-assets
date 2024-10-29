@@ -1,0 +1,1 @@
+# sharepaper-static-assets
